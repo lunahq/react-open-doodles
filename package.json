@@ -1,6 +1,6 @@
 {
   "name": "react-open-doodles",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Free Set of Sketchy Illustrations provided by https://www.opendoodles.com/",
   "author": "Leocardoso94",
   "license": "MIT",
@@ -56,5 +56,11 @@
   },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "react",
+    "illustration",
+    "doodles",
+    "icon"
   ]
 }
