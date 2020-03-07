@@ -58,10 +58,6 @@ This a list of props that you can pass down to the component:
 | `ink`    | ink color    | `#000`        | string |
 | `accent` | accent color | `#FF5678`     | string |
 
-## Special thanks
-
-Open Doodles was created by [Pablo Stanley](https://twitter.com/pablostanley) we use this Illustrations on our site [oiluna.com](https://oiluna.com)
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
