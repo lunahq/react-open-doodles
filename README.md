@@ -1,16 +1,13 @@
 <h1 align="center">Welcome to react-open-doodles 👋</h1>
 <p>
-  <a href='https://coveralls.io/github/lunahq/react-open-doodles?branch=master'>
-    <img src='https://coveralls.io/repos/github/lunahq/react-open-doodles/badge.svg?branch=master' alt='Coverage Status' />
-  </a>
   <a href="https://badge.fury.io/js/react-open-doodles">
     <img src="https://badge.fury.io/js/react-open-doodles.svg" alt="npm version" height="18">
   </a>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/lunahq_" target="_blank">
-    <img alt="Twitter: lunahq_" src="https://img.shields.io/twitter/follow/lunahq_.svg?style=social" />
+  <a href="https://twitter.com/oilunabr" target="_blank">
+    <img alt="Twitter: oilunabr" src="https://img.shields.io/twitter/follow/oilunabr.svg?style=social" />
   </a>
 </p>
 
