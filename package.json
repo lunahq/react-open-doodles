@@ -21,7 +21,12 @@
     "predeploy": "cd example && yarn install && yarn run build",
     "deploy": "gh-pages -d example/build"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@balajmarius/svg2jsx": "^2.0.0",
+    "crawler": "^1.2.1",
+    "node-fetch": "^2.6.0",
+    "svg2jsx": "^0.1.1"
+  },
   "peerDependencies": {
     "prop-types": "^15.5.4",
     "react": "^15.0.0 || ^16.0.0",

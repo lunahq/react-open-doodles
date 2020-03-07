@@ -1,13 +1,13 @@
-import React, { Component } from 'react'
-
-import ExampleComponent from 'react-open-doodles'
+import React, { Component } from "react";
+import { LovingDoodle } from "react-open-doodles";
 
 export default class App extends Component {
-  render () {
+  render() {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <LovingDoodle />
+        <LovingDoodle accent="#ff0083" ink="#484848" />
       </div>
-    )
+    );
   }
 }
