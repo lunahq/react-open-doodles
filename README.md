@@ -17,7 +17,7 @@
 <img  src="https://opendoodles.s3-us-west-1.amazonaws.com/coffee.gif" width="500" >
 </p>
 
-Open Doodles was created by [Pablo Stanley](https://twitter.com/pablostanley) we use this Illustrations on our site [oiluna.com](https://oiluna.com).
+Open Doodles was created by [Pablo Stanley](https://twitter.com/pablostanley) we use this Illustrations on our site [luna.ac](https://luna.ac).
 
 This package is only a utility to use the illustrations in your React project.
 
