@@ -38,7 +38,7 @@
     "crawler": "^1.2.1",
     "cross-env": "^5.1.4",
     "gh-pages": "^1.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts-ts": "^2.16.0",
